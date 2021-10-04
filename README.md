@@ -2,9 +2,7 @@
 
 These are some screenshots of the program.
 
-To run the program, you will need to have installed the following python libraries: BeautifulSoup4, PySimpleGUI, requests.
-
-We have an executable file that requires no libraries, but it is too large to upload in GitHub
+To run the program, you will need to have installed the following python libraries: BeautifulSoup4, PySimpleGUI, requests. Then, you use the command python HeatRisks.py
 
 ![image](https://user-images.githubusercontent.com/73013959/135790861-33a4edf3-b07d-4034-ba6d-293bfd916674.png)
 
